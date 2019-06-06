@@ -30,22 +30,53 @@ body{
 	color: #808080;
 	font-size: 16px; 
 	background-color: #E6E6E6;
-	margin-top: 80px;
+	margin-top: 30px;
 	width: 100%;
 	padding: 50px 150px 55px 30px;
+
 }
 .cont-info{
 	color: #3D58A6; 
 	font-weight: bold;
 	font-size: 20px;
+	padding-bottom: 10px;
 
+}
+.add{
+	padding-bottom: 5px;
+}
+.tel{
+	padding-bottom: 5px;
 }
 .add span{
 	color: #000000;
+	font-weight: bold;
 }
 .tel span{
 	color: #000000;
+	font-weight: bold;
+
 }
 .mail span{
 	color: #000000;
+	font-weight: bold;
+}
+.map-img{
+	height: 450px;
+	padding: 50px 160px 50px 335px;
+
+}
+.fb{
+	height: 25px;
+	margin-top: 30px;
+	padding-right: 30px;
+}
+.line{
+	height: 25px;
+	margin-top: 30px;
+	padding-right: 30px;
+}
+.youtube{
+	height: 25px;
+	margin-top: 30px;
 }
