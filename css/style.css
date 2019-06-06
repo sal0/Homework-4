@@ -61,9 +61,10 @@ body{
 	color: #000000;
 	font-weight: bold;
 }
-.map-img{
-	height: 450px;
-	padding: 50px 160px 50px 335px;
+.map{
+
+	display: inline-block;
+	padding: 0px 160px 50px 335px;
 
 }
 .fb{
