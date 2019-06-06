@@ -1,0 +1,51 @@
+body{
+	padding: 30px;
+}
+.logo-img{
+	width: 100px;
+
+}
+.logo{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 50px;
+}
+.navbar{
+	display: inline-block;
+}
+.navbar-li{
+	display: inline-block;
+	margin-right: 20px;
+}
+.navbar-a{
+	font-size: 22px;
+	color: #3D58A6;
+	font-weight: bold;
+}
+.navbar-a span{
+	color: #EE4036;
+}
+.contact{
+	display: inline-block;
+	color: #808080;
+	font-size: 16px; 
+	background-color: #E6E6E6;
+	margin-top: 80px;
+	width: 100%;
+	padding: 50px 150px 55px 30px;
+}
+.cont-info{
+	color: #3D58A6; 
+	font-weight: bold;
+	font-size: 20px;
+
+}
+.add span{
+	color: #000000;
+}
+.tel span{
+	color: #000000;
+}
+.mail span{
+	color: #000000;
+}
